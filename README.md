@@ -1,3 +1,3 @@
 # choripon.github.io
 
-hideyuki-matsuyama のポートフォリオ。
+hideyuki-matsuyama のポートフォリオ.
